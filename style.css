@@ -16,7 +16,7 @@ body{
 }
 
 .cabecalho-imagem{
-    width: 100px;
+    width: 10px;
 }
 
 .cabecalho-lista-item{
@@ -25,7 +25,7 @@ body{
     font-size: 16px;
 }
 .sobre_nos{
-    background-image: linear-gradient(#3b0050,#3b00501f);
+    background-image: linear-gradient(#000000,#ffffff);
     color:#FFFFFF;
     display: flex;
     justify-content: center;
