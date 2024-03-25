@@ -27,7 +27,7 @@ body{
 .sobre_nos{
     background-image: linear-gradient(#ffffff,#ffffff);
     color:#000000;
-    display: grid;
+    display: flex;
     justify-content: center;
     padding: 25px 0;
 
