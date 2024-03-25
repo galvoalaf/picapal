@@ -28,6 +28,7 @@ body{
     background-image: linear-gradient(#ffffff,#ffffff);
     color:#000000;
     display: grid;
+    grid-template-columns: 33% 33%;
     justify-content: center;
     padding: 25px 0;
 
