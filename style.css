@@ -72,10 +72,10 @@ body{
     background-color: black;
     text-align: cemter;
     padding: 100px;
-    border-top: 1000px solid #ffff00b2;
+    border-top: 2px solid #ffff00b2;
 }
 .rodape-titulo{
-    font-size: 25px;
+    font-size: 250px;
     font-weight: bold;
     color: #ffff00b2;
 }
