@@ -75,11 +75,11 @@ body{
     border-top: 2px solid #ffff00b2;
 }
 .rodape-titulo{
-    font-size: 250px;
+    font-size: 25px;
     font-weight: bold;
-    color: #ffff00b2;
+    color: #d6d6d5b2;
 }
 .rodape-imagem{
-    width: 100px;
+    width: 1000px;
     filter: invert();
 }
