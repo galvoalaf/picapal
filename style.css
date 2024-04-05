@@ -63,7 +63,7 @@ body{
 
 .lojas-todosestados-div{
     display: grid;
-    grid-template-columns:  40% 40% 40%;
+    grid-template-columns:  90% 90% 90%;
 }
 .loja-estado{
     text-align: center;
