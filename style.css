@@ -71,8 +71,7 @@ body{
 .rodape{
     background-color: black;
     text-align: side;
-    padding:100px;
-    padding: 80px;
+    padding: 00px;
     border-top: 2px solid #ffff00b2;
 }
 .rodape-titulo{
