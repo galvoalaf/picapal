@@ -71,15 +71,15 @@ body{
 .rodape{
     background-color: black;
     text-align: side;
-    padding: 100px;
+    padding: 50px;
     border-top: 2px solid #ffff00b2;
 }
 .rodape-titulo{
-    font-size: 10px;
+    font-size:25px;
     font-weight: bold;
     color: #d6d6d5b2;
 }
 .rodape-imagem{
-    width: 1000x;
+    width: 100x;
     filter:invert();
 }
