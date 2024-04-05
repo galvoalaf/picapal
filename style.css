@@ -70,7 +70,7 @@ body{
 }
 .rodape{
     background-color: black;
-    text-align: center;
+    text-align: side;
     padding: 200px;
     border-top: 2px solid #ffff00b2;
 }
