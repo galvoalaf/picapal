@@ -81,5 +81,5 @@ body{
 }
 .rodape-imagem{
     width: 1000x;
-    filter:invert();
+    filter:invert(44);
 }
