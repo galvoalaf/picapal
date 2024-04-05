@@ -63,14 +63,14 @@ body{
 
 .lojas-todosestados-div{
     display: grid;
-    grid-template-columns:  90% 90% 90%%;
+    grid-template-columns:  33% 33% 33%;
 }
 .loja-estado{
     text-align: center;
 }
 .rodape{
     background-color: black;
-    text-align: cemter;
+    text-align: center;
     padding: 100px;
     border-top: 2px solid #ffff00b2;
 }
