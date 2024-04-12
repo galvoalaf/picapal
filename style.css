@@ -25,8 +25,8 @@ body{
     font-size: 16px;
 }
 .sobre_nos{
-    background-image: linear-gradient(#ffffff,#ffffff);
-    color:#000000;
+    background-image: linear-gradient(#000000,#ffffff);
+    color:#fffcfc;
     display: flex;
     justify-content: side;
     padding: 25px 0;
