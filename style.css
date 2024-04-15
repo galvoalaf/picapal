@@ -73,13 +73,13 @@ body{
     text-align: center;
     
         background-image: linear-gradient(#000000,#080808);
-        color:#000000;
+        color:#f8f8f8;
         display: flex;
         justify-content: side;
         padding: 25px 0;
 
         background-image: linear-gradient(#000000,hsl(0, 0%, 2%));
-    color:#000000;
+    color:#ffffff;
     display: flex;
     justify-content: side;
     padding: 50px;
