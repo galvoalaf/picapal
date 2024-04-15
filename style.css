@@ -71,6 +71,14 @@ body{
 
 .loja-estado{
     text-align: center;
+    
+        background-image: linear-gradient(#000000,#fff1f1);
+        color:#fffbfb;
+        display: flex;
+        justify-content: side;
+        padding: 25px 0;
+    
+    
 }
 .rodape{
     background-color: rgb(255, 255, 255);
