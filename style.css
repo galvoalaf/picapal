@@ -2,8 +2,9 @@
     margin:10;
     padding:10;
 }
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap');
 body{
-    font-family:'Poppins',sans-serif;
+    font-family:'jaro',sans-serif;
 }
 .cabecalho{
     background-color:#161516;
