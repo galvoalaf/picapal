@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Burned&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&family=Rubik+Burned&display=swap'); 
 *{
     margin:10;
     padding:10;
 
-    font-family:'Rubik',sans-serif;
+    font-family:'Nosifer&family',sans-serif;
 }
 .cabecalho{
     background-color:#161516;
